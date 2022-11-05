@@ -1,7 +1,7 @@
 더시드 엔진 (구 프론트엔드 기준) 모방 프로젝트.  
 < "엔진 내부 UI는 상관없음." ( https://feedback.theseed.io/posts/280 ) >  
 테스트 서버 - https://go2021.glitch.me
-
+내 서버 - https://kaisha20.run.goorm.io
 나무픽스와 거의 호환된다.
 
 Pull Request 시 서버 코드에는 Node.js 13 이상, 프론트엔드 자바스크립트에는 ES6 이상 문법을 사용하지 말 것.
